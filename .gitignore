@@ -1,0 +1,36 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+_UpgradeReport_Files/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+packages/
+*.nupkg
+debug/
+release/
+.vscode/
+
+# User-specific Visual Studio settings
+.vscode/
+.vs/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
